@@ -3,7 +3,7 @@ SCM Assignment
 A brief description of your project.
 
 ## Description
-This is description for master branch
+This is description for conflict-demo
 A more detailed description of the project and its purpose.
 
 #Steps to Run the Project
